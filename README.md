@@ -4,12 +4,12 @@
 
 QGIS
 
-
+![Habitat_volumes_utanskala](https://user-images.githubusercontent.com/129620605/230319623-e1b2c672-0165-49b4-97f1-4e172a2f2939.jpg)
 **Figure 1:** A habitat distribution map for Vendace in Lake mälaren.
 
 
 
-
+![Swim_distance_route_utanskala](https://user-images.githubusercontent.com/129620605/230319649-8fbd86ba-6d54-45d2-bf10-9851f36e7df8.jpeg)
 **Figure 2:** The map shows the route of flight the vendace need to go if the habitat in one basin shrinks below sufficient volume.
 
 
@@ -20,6 +20,6 @@ ArcGIS pro
 
 
 
-
+![No_luck_map](https://user-images.githubusercontent.com/129620605/230319508-e5b5b532-3f0e-402b-9f0b-9c83bfdacc91.jpg) 
 **Figure 4:** A explanation map for how the analysis was carried out for the chantarelle map.
 
