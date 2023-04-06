@@ -15,6 +15,7 @@ QGIS
 
 ArcGIS pro
 
+![Ultimate_chantarelle_FINAL2](https://user-images.githubusercontent.com/129620605/230319413-bce0c77a-109a-4842-ba7b-0dabc1b25348.jpg)
 **Figure 3:** A map showing chantarelle habitat for a guided tour in Daimadalens nature reserve.
 
 
