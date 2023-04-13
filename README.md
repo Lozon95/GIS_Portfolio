@@ -33,7 +33,7 @@
 **Figure 5:** Map showing the different layers based on the vendace habitat criteria in the basin
 
 
-![Final_maps_görveln](https://user-images.githubusercontent.com/129620605/230319691-5a5c9d72-5d49-4a0c-b3cc-cb594fbc3c66.jpeg)
+![Final_maps_görveln_edited2](https://user-images.githubusercontent.com/129620605/231888028-d0406be7-ed2d-4e33-8de0-cb0f916aec8d.jpeg)
 **Figure 6:** Map showing the different layers based on the vendace habitat criteria in the basin
 
 
