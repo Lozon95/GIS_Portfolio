@@ -25,7 +25,7 @@
 **Figure 3:** A habitat distribution map for Vendace in Lake mälaren visualising the habitat thickness at different locations. The habitat was calculated with depthdata, temperature and oxygen profiles. The habitat critera was set to temp < 18 degrees celsius and oxygen concentration > 2mg/L. The depthdata was created by digitalising screenshots from Genesis maps (https://www.genesismaps.com/). The parameter profiles was created in R and data was recieved from SLU Environmental monitoring (https://www.slu.se/institutioner/vatten-miljo/forskning/forskningsprojekt/fokus-pa-malaren/miljoanalys/)  
 
 
-![Swim_distance_route_utanskala](https://user-images.githubusercontent.com/129620605/230319649-8fbd86ba-6d54-45d2-bf10-9851f36e7df8.jpeg)
+![Swim_distance_edited](https://user-images.githubusercontent.com/129620605/231887981-5c3f59c5-d174-4ac6-9c24-37fce30461ce.jpeg)
 **Figure 4:** The map shows the route of flight the vendace need to go if the habitat in one basin shrinks below sufficient volume.
 
 
