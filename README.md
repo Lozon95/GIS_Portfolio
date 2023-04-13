@@ -29,7 +29,7 @@
 **Figure 4:** The map shows the route of flight the vendace need to go if the habitat in one basin shrinks below sufficient volume.
 
 
-![Final_maps_skarven](https://user-images.githubusercontent.com/129620605/230319677-929560cc-777d-4143-9ca7-c0242690da43.jpeg)
+![Final_maps_skarven_edited](https://user-images.githubusercontent.com/129620605/231888641-46d642d9-f4e8-46f1-81d4-ed4e44929eb7.jpeg)
 **Figure 5:** Map showing the different layers based on the vendace habitat criteria in the basin
 
 
