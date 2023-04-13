@@ -21,7 +21,7 @@
 ### QGIS
 
 
-![Habitat_volumes_utanskala](https://user-images.githubusercontent.com/129620605/230319623-e1b2c672-0165-49b4-97f1-4e172a2f2939.jpg)
+![Volumes_edited](https://user-images.githubusercontent.com/129620605/231887946-1ae4e942-f5be-4ed2-86ae-e8db3304687a.jpg)
 **Figure 3:** A habitat distribution map for Vendace in Lake mälaren visualising the habitat thickness at different locations. The habitat was calculated with depthdata, temperature and oxygen profiles. The habitat critera was set to temp < 18 degrees celsius and oxygen concentration > 2mg/L. The depthdata was created by digitalising screenshots from Genesis maps (https://www.genesismaps.com/). The parameter profiles was created in R and data was recieved from SLU Environmental monitoring (https://www.slu.se/institutioner/vatten-miljo/forskning/forskningsprojekt/fokus-pa-malaren/miljoanalys/)  
 
 
