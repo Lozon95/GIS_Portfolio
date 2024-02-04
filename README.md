@@ -12,14 +12,17 @@
 **Figure 2:** Optimal cultivation sites for sugar beet in Trelleborg munipilacity. 
 
 
+![Q3_1](https://github.com/Lozon95/GIS_Portfolio/assets/129620605/262f8697-0ca5-4207-94f8-28dd6f3db02b)
+**Figure 3:** Overview map of Rönneå Catchment area
 
-#### During the spring of 2023, simultaneously with my bachelor's studies at Skövde University, I studied a 7.5 credit advanced GIS course at Umeå University. During the course, management and analysis of raster data was mainly carried out. During a project, habitat requirements for chanterelles were analyzed in a nature reserve in northern Sweden. The results would be presented as tourist maps for hiking tourists. Thus, the information would appear clearly, but the layout would at the same time invite you to a "treasure hunt for the forest's gold". The results from this project can be seen in figures 3 and 4.
+
+#### During the spring of 2023, simultaneously with my bachelor's studies at Skövde University, I studied a 7.5 credit advanced GIS course at Umeå University. During the course, management and analysis of raster data was mainly carried out. During a project, habitat requirements for chanterelles were analyzed in a nature reserve in northern Sweden. The results would be presented as tourist maps for hiking tourists. Thus, the information would appear clearly, but the layout would at the same time invite you to a "treasure hunt for the forest's gold". The results from this project can be seen in figures 4 and 5.
 
 ![Ultimate_chantarelle_FINAL2](https://user-images.githubusercontent.com/129620605/230319413-bce0c77a-109a-4842-ba7b-0dabc1b25348.jpg)
-**Figure 3:** A map showing chantarelle habitat for a guided tour in Daimadalens nature reserve. This project was carried out during a course at Umeå University. The analysis was carried out mainly with the raster calculator. 
+**Figure 4:** A map showing chantarelle habitat for a guided tour in Daimadalens nature reserve. This project was carried out during a course at Umeå University. The analysis was carried out mainly with the raster calculator. 
 
 ![No_luck_map](https://user-images.githubusercontent.com/129620605/230319508-e5b5b532-3f0e-402b-9f0b-9c83bfdacc91.jpg) 
-**Figure 4:** A map with a brief explanation for how the analysis was carried out for the chantarelle map.
+**Figure 5:** A map with a brief explanation for how the analysis was carried out for the chantarelle map.
 
 
 
