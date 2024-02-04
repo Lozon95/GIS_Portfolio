@@ -1,11 +1,15 @@
 ## GIS Portfolio
-#### Examples of work done during my studies at the University of Skövde and Umeå University. The portfolio is split into two sections. QGIS and ArcGIS.  
-##### *(A collection of 6 images with a short description to provide an overview of my skills as a GIS- analysist.)*
+#### Examples of work done during my studies at Lund University and a course in GIS at Umeå University. 
+##### *(A collection of 4 images and task description to provide an overview of my skills as a GIS- analysist.)*
 
 
-### ArcGIS pro
+### During an advanced course in applied GIS and a site selection task at Lund University, normalisation for spatial data and scale problems for analysis were taught. During this course, optimal cultivation sites for sugar beet in Skåne County were analysed. Figure 1 illustrates the distribution of optimal cultivation sites in Skåne County and Figure 2 shows the municipality with the highest area of optimal cultivation land for sugar beet. In Figure 2, an odd trend can be seen in the map where it almost looks like a square of data has been cut out. This is due to the fact that the data available was produced for very small scale (larger areas) and therefore had low resolution. The "cut out" square is thus a pixel where the data value does not meet the requirements for the sugar beet cultivation sites. This highlights the importance of minding the scale for which the data is produced. Site selection was carried out using a raster layer summation method. During the course, great emphasis was placed on multi-criteria analysis, especially AHP (Analytic hierarchy process) and TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution). During an individual assignment, I also explored Fuzzy AHP where uncertainty in expert opinions is taken into account by using fuzzy triangular numbers, which in short means that an expert opinion is given a fuzzy interval instead of a concrete value. This is advantageous when many experts have to weight different criteria against each other and you want to take into account a bias in the assessment. Multi-criteria analysis is common in GIS and I have the skills to carry out these types of projects. With a deep understanding of normalisation and quality control of spatial data, these types of analyses are also performed with high accuracy and reliability. As I also use python scripts in Jupyter Notebook for analysis in ArcGIS, methods can be examined in detail and also reused. 
 
+![Layout_scania_final2](https://github.com/Lozon95/GIS_Portfolio/assets/129620605/8845ecce-a7b8-4000-85e7-63063fb6a1c2)
+**Figure 1:** Optimal cultivation sites in Scania County for sugar beet.
 
+![Layout_Trelleborg2](https://github.com/Lozon95/GIS_Portfolio/assets/129620605/a032e629-8f35-4369-8458-b8bc2a14a395)
+**Figure 2:** Optimal cultivation sites in Trelleborg munipilacity for sugar beet. 
 
 ![Ultimate_chantarelle_FINAL2](https://user-images.githubusercontent.com/129620605/230319413-bce0c77a-109a-4842-ba7b-0dabc1b25348.jpg)
 **Figure 1:** A map showing chantarelle habitat for a guided tour in Daimadalens nature reserve. This project was carried out during a course at Umeå University. The analysis was carried out mainly with the raster calculator. 
@@ -18,22 +22,6 @@
 
 
 
-### QGIS
 
-
-![Volumes_edited](https://user-images.githubusercontent.com/129620605/231887946-1ae4e942-f5be-4ed2-86ae-e8db3304687a.jpg)
-**Figure 3:** A habitat distribution map for Vendace in Lake mälaren visualising the habitat thickness at different locations. The habitat was calculated with depthdata, temperature and oxygen profiles. The habitat critera was set to temp < 18 degrees celsius and oxygen concentration > 2mg/L. The depthdata was created by digitalising screenshots from Genesis maps (https://www.genesismaps.com/). The parameter profiles was created in R and data was recieved from SLU Environmental monitoring (https://www.slu.se/institutioner/vatten-miljo/forskning/forskningsprojekt/fokus-pa-malaren/miljoanalys/)  
-
-
-![Swim_distance_edited](https://user-images.githubusercontent.com/129620605/231887981-5c3f59c5-d174-4ac6-9c24-37fce30461ce.jpeg)
-**Figure 4:** The map shows the route of flight the vendace need to go if the habitat in one basin shrinks below sufficient volume.
-
-
-![Final_maps_skarven_edited](https://user-images.githubusercontent.com/129620605/231888641-46d642d9-f4e8-46f1-81d4-ed4e44929eb7.jpeg)
-**Figure 5:** Map showing the different layers based on the vendace habitat criteria in the basin
-
-
-![Final_maps_görveln_edited2](https://user-images.githubusercontent.com/129620605/231888028-d0406be7-ed2d-4e33-8de0-cb0f916aec8d.jpeg)
-**Figure 6:** Map showing the different layers based on the vendace habitat criteria in the basin
 
 
