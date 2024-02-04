@@ -12,8 +12,10 @@
 **Figure 2:** Optimal cultivation sites for sugar beet in Trelleborg munipilacity. 
 
 
+#### During a project in cartography and statistics at Lund University, emissions of nitrogen and phosphorus in a catchment area were analysed. Once this was mapped, an analysis of land use distribution in the area was carried out and proposals for protection zones for the establishment of riperian zones were presented. The result can be seen in Figure 3.
+
 ![Q3_1](https://github.com/Lozon95/GIS_Portfolio/assets/129620605/262f8697-0ca5-4207-94f8-28dd6f3db02b)
-**Figure 3:** Overview map of Rönneå Catchment area
+**Figure 3:** Overview map of Rönneå Catchment area and location proposal for riperian zones. 
 
 
 #### During the spring of 2023, simultaneously with my bachelor's studies at Skövde University, I studied a 7.5 credit advanced GIS course at Umeå University. During the course, management and analysis of raster data was mainly carried out. During a project, habitat requirements for chanterelles were analyzed in a nature reserve in northern Sweden. The results would be presented as tourist maps for hiking tourists. Thus, the information would appear clearly, but the layout would at the same time invite you to a "treasure hunt for the forest's gold". The results from this project can be seen in figures 4 and 5.
